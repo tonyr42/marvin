@@ -1,2 +1,2 @@
 # marvin
-A python project for sxploring GitHub use
+A python project for exploring GitHub use
